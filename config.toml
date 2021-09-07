@@ -3,3 +3,9 @@ languageCode = "en-us"
 title = "Interactive Pearls"
 
 theme = "ace-documentation"
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-github'></i>"
+url = "https://github.com/interactive-pearls/website"
+weight = 10
+
